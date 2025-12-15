@@ -1,12 +1,11 @@
-import React from "react";
-import PatientForm from "./RegistrationForm";
+import Form from "./Validform";
 
 
 function App() {
   return (
     <div>
-      <PatientForm />
-    </div>
+      <Form/>
+  </div>
   );
 }
 
